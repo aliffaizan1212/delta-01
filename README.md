@@ -1,2 +1,2 @@
 # delta-01
-first based on github
+first based on github.
